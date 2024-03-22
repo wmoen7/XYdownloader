@@ -115,6 +115,13 @@ docker run -e APP_ID=111 -e APP_HASH=111 -e TOKEN=370FXI bennythink/ytdlbot
 
 <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
 
+
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/wmoen7/XYdownloader">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+
 If you are having trouble deploying, you can fork the project to your personal account and deploy it from there.
 
 **Starting November 28, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® plans will no
